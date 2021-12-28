@@ -52,13 +52,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'intro',
-          },
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'intro',
+            label: 'Content',
           },
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -74,11 +68,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Introduction',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Libraries',
+                label: 'Content',
                 to: '/docs/intro',
               },
             ],
